@@ -104,6 +104,7 @@ public class MyWindowManager {
 				bigWindowParams.width = FloatWindowBigView.viewWidth;
 				bigWindowParams.height = FloatWindowBigView.viewHeight;
 			}
+			bigWindow.setParams(bigWindowParams);
 			windowManager.addView(bigWindow, bigWindowParams);
 		}
 	}
