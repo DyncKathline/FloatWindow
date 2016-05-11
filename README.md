@@ -6,6 +6,7 @@
 按Home键后如图2、3所示，也可以随意拖动。双击小窗口弹出另外一个小窗口，移除视频小窗口。
 案例中的视频文件“I Believe.mp4”下载地址：http://pan.baidu.com/s/1o7HohC2
 
+![Alt text](https://github.com/DyncKathline/react-native-TabBar/blob/master/screenshots/%E6%95%88%E6%9E%9C%E5%9B%BE.gif)
 ![Alt text](https://github.com/DyncKathline/FloatWindow/tree/master/screenshots/1.png)
 ![Alt text](https://github.com/DyncKathline/FloatWindow/tree/master/screenshots/2.png)
 ![Alt text](https://github.com/DyncKathline/FloatWindow/tree/master/screenshots/3.png)
