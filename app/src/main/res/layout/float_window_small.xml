@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/small_window_layout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/percent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableTop="@drawable/main_my_tools"
+        android:gravity="center"
+        android:visibility="gone"
+        android:textColor="#ffffff" />
+
+    <SurfaceView
+        android:id="@+id/surfaceView"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:visibility="visible"
+        android:layout_gravity="center_horizontal" />
+</FrameLayout>
