@@ -7,13 +7,9 @@
 案例中的视频文件“I Believe.mp4”下载地址：http://pan.baidu.com/s/1o7HohC2
 <div align="center">
 <img src="https://github.com/DyncKathline/FloatWindow/blob/master/screenshots/1.png" width = "300" height = "500" alt="图片1" align=center />
-</div>
-<div align="center">
 <img src="https://github.com/DyncKathline/FloatWindow/blob/master/screenshots/2.png" width = "300" height = "500" alt="图片2" align=center />
 </div>
 <div align="center">
 <img src="https://github.com/DyncKathline/FloatWindow/blob/master/screenshots/3.png" width = "300" height = "500" alt="图片3" align=center />
-</div>
-<div align="center">
 <img src="https://github.com/DyncKathline/FloatWindow/blob/master/screenshots/4.png" width = "300" height = "500" alt="图片4" align=center />
 </div>
